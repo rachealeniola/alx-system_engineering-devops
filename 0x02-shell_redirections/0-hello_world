@@ -1,2 +1,3 @@
 #!/bin/bash
-lpr "Hello World"
+echo "Hello World"
+ls >file_list.txt
